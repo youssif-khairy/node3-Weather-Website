@@ -70,7 +70,7 @@ app.get('/weather',(req,res)=>{
           })
     }) 
 
-
+console.log('Finished')
     
 
 })  
